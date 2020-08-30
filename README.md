@@ -11,3 +11,4 @@ I think the 2020 version will come out soon.
 ## App Ideas
 
 * GitHub page https://github.com/tastejs/awesome-app-ideas
+* https://github.com/danistefanovic/build-your-own-x

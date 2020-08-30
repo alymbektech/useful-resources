@@ -12,3 +12,7 @@ I think the 2020 version will come out soon.
 
 * GitHub page https://github.com/tastejs/awesome-app-ideas
 * https://github.com/danistefanovic/build-your-own-x
+
+## Interviews, CS Careers
+
+* Practice Mock Interviews & Coding Problems https://www.pramp.com/

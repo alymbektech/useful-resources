@@ -16,4 +16,4 @@ I think the 2020 version will come out soon.
 ## Interviews, CS Careers
 
 * Practice Mock Interviews & Coding Problems https://www.pramp.com/
-* Adilet Zhaxybay ex-Google SWE https://interviews.school/
+* Adilet Zhaxybay ex-Google SWE, Complete interview preparation guide https://interviews.school/

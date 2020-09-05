@@ -14,6 +14,11 @@ I think the 2020 version will come out soon.
 * https://github.com/danistefanovic/build-your-own-x
 * Build an Engaging Alexa Skill https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill/module-1
 
+## Summer 2021 SWE Internship / New Grad applications
+
+* Internships: https://github.com/Pitt-CSC/Summer2021-Internships
+* https://github.com/Pitt-CSC/NewGrad-2021
+
 ## Interviews, CS Careers
 
 * Practice Mock Interviews & Coding Problems https://www.pramp.com/
